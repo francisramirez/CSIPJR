@@ -1,0 +1,12 @@
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\bin\Debug\net6.0\CSIPJR.Domain.deps.json
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\bin\Debug\net6.0\CSIPJR.Domain.dll
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\bin\Debug\net6.0\CSIPJR.Domain.pdb
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\obj\Debug\net6.0\CSIPJR.Domain.csproj.AssemblyReference.cache
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\obj\Debug\net6.0\CSIPJR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\obj\Debug\net6.0\CSIPJR.Domain.AssemblyInfoInputs.cache
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\obj\Debug\net6.0\CSIPJR.Domain.AssemblyInfo.cs
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\obj\Debug\net6.0\CSIPJR.Domain.csproj.CoreCompileInputs.cache
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\obj\Debug\net6.0\CSIPJR.Domain.dll
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\obj\Debug\net6.0\refint\CSIPJR.Domain.dll
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\obj\Debug\net6.0\CSIPJR.Domain.pdb
+D:\pjrs\CSIPJR\CSIPJR\CSIPJR.Domain\obj\Debug\net6.0\ref\CSIPJR.Domain.dll
