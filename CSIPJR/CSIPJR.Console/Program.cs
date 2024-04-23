@@ -1,0 +1,2 @@
+﻿using CSIPJR.Domain.Class;
+
